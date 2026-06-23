@@ -1,4 +1,4 @@
-# 🔍 alnayzer
+# 🔍 alanayzer
 
 анализатор ссылок на python.
 
